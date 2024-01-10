@@ -1,0 +1,94 @@
+.layout{
+ text-align: center;
+ text-decoration: underline overline solid red 5px;
+}
+.header{
+ height: 100px;
+ background-color: rgb(34, 177, 76);
+}
+.second{
+ height: 130px;
+}
+.sL1{
+ width: 60%;
+ float: left;
+ background-color: rgb(153, 217, 234);
+}
+.sL2{
+ width: 40%;
+ background-color: rgb(63, 72, 204);
+ float: right;
+}
+
+.third{
+ height: 135px;
+}
+.tL1{
+ width: 33.33%;
+ float: left;
+ background-color: rgb(255, 174, 201);
+}
+.tL2{
+ width: 33.33%;
+ float: left;
+ background-color: rgb(64, 128, 128);
+}
+.tL3{
+ width: 33.33%;
+ float: right;
+ background-color: rgb(255, 127, 39);
+}
+.fourth{
+ height: 140px;
+}
+.fL1{
+ width:25% ;
+ 
+ float: left;
+ background-color: rgb(133, 160, 139);
+}
+.fL2{
+ width:25% ;
+ float: left;
+ background-color: rgb(150, 136, 157);
+}
+.fL3{
+ width:25% ;
+ float: left;
+ background-color: rgb(163, 73, 164);
+}
+.fL4{
+ width:25% ;
+ float: right;
+ background-color: rgb(255, 242, 0);
+}
+
+.fifth{
+ height: 145px;
+}
+.fifthL1{
+ width: 20%;
+ float: left;
+ background-color: rgb(237, 28, 36);
+}
+.fifthL2{
+ width: 20%;
+ float: left;
+ background-color: rgb(34, 177, 76);
+}
+.fifthL3{
+ width: 20%;
+ float: left;
+ background-color: rgb(0, 0, 0);
+}
+.fifthL4{
+ width: 20%;
+ float: left;
+ background-color: rgb(255, 201, 14);
+}
+.fifthL5{
+ width: 20%;
+ float: right;
+ background-color: rgb(239, 228, 176);
+}
+
